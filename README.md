@@ -1,6 +1,13 @@
+Achievements are for each individual and not the team.
+
+Types of Achievements:
+   - Inclusive - Everyone can have one of these and also a Unique type
+   - Unique - Can only have one Unique achivemnet at any given, you can swap between
+
 ## Mascots
 
 - 
+  ![](https://user-images.githubusercontent.com/25123512/69001890-d78c0700-08e6-11ea-9bba-7697f2a2d410.png)
   name: "Survey_Space_Partaker"
   
   desc: > 
@@ -12,8 +19,8 @@
       _Partake in the Level One: Jam! Survey_   
       Reward: Survey Space Partaker Badge  
       Type: Inclusive  
-  image: "space.png"
 - 
+  ![](https://user-images.githubusercontent.com/25123512/69001885-d65ada00-08e6-11ea-9a9d-ee66bc3162f8.png)
   name: "The_Key_Coder"
   
   desc: > 
@@ -26,8 +33,8 @@
       _Implementing one or more game mechanic(s) to your game._   
       Reward: The Key Coder Badge  
       Type: Unique
-  image: "coder.png"
 - 
+  ![](https://user-images.githubusercontent.com/25123512/69001886-d65ada00-08e6-11ea-8f46-03cc4ec044a3.png)
   name: "Enterneer"
   
   desc: >
@@ -41,8 +48,8 @@
           help creating new idears for your game or others if they are stuck._   
       Reward: Enterneer Badge  
       Type: Unique
-  image: "enter.png"
 - 
+  ![](https://user-images.githubusercontent.com/25123512/69001888-d6f37080-08e6-11ea-9908-56939ea2a890.png)
   name: "Game_Planner"
   
   desc: >
@@ -57,8 +64,8 @@
           _Planning, coordinating and helping the team to reach the goal._   
       Reward: Game Planner Badge  
       Type: Unique
-  image: "paper.png"
 - 
+  ![](https://user-images.githubusercontent.com/25123512/69001889-d6f37080-08e6-11ea-8002-7ffab9ee06f7.png)
   name: "Shift_Sound_Designer"
   
   desc: >
@@ -69,8 +76,8 @@
           _Being the one responsible for adding audio and or your own soundtrack to your game._   
       Reward: Shift Sound Designer Badge  
       Type: Unique
-  image: "shift.png"
--  
+- 
+  ![](https://user-images.githubusercontent.com/25123512/69001887-d6f37080-08e6-11ea-9358-0cd5d1fdaf60.png)
   name: "Key Designer"
   
   desc: >
@@ -80,4 +87,3 @@
           _Creating your own visual assets for your game._  
       Reward: Key Designer Badge  
       Type: Unique
-  image: "painter.png"
