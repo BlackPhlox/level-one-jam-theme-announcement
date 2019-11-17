@@ -1,8 +1,7 @@
-Achievements are for each individual and not the team.
 
 Types of Achievements:
    - Inclusive - Everyone can have one of these and also a Unique type
-   - Unique - Can only have one Unique achivemnet at any given, you can swap between
+   - Unique - Can only have one Unique achievement at any given, you can however change for another Unique achievement that you have achieved
 
 ## Mascots / Achievements
 
