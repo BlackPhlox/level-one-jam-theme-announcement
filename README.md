@@ -4,7 +4,7 @@ Types of Achievements:
    - Inclusive - Everyone can have one of these and also a Unique type
    - Unique - Can only have one Unique achivemnet at any given, you can swap between
 
-## Mascots
+## Mascots / Achievements
 
 - 
   ![](https://user-images.githubusercontent.com/25123512/69001890-d78c0700-08e6-11ea-9bba-7697f2a2d410.png)
