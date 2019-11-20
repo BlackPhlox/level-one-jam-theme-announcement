@@ -41,7 +41,7 @@ Types of Achievements:
     The **Jack of all trades**.    
       _"Is that a bug? Well, lets use that bug as our new game mecanic!"_
     _"What are you guys doing? Need some help?"_
-    **The second hand man of the Game Planner.**  
+    **The Game Planner's right hand.**  
       Achieved by:   
           _Helping your team and even other teams whenever possible and 
           help creating new idears for your game or others if they are stuck._   
